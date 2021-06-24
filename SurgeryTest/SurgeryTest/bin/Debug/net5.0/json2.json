@@ -1,0 +1,573 @@
+{
+  "$type": "System.Collections.Generic.List`1[[Team_Project_Paint.Interfaces.IShape, Team_Project_Paint]], mscorlib",
+  "$values": [
+    {
+      "$type": "Team_Project_Paint.Class.Curve, Team_Project_Paint",
+      "Thickness": 1,
+      "Name": 3,
+      "Numb": 0,
+      "IsSelected": false,
+      "FinishLocation": null,
+      "Location": null,
+      "Color": {
+        "$type": "Team_Project_Paint.Class.PaintColor, Team_Project_Paint",
+        "A": 255,
+        "R": 0,
+        "G": 0,
+        "B": 0
+      },
+      "Size": null,
+      "EShapeStatus": 0
+    },
+    {
+      "$type": "Team_Project_Paint.Class.Dot, Team_Project_Paint",
+      "Thickness": 20,
+      "Name": 0,
+      "Numb": 0,
+      "IsSelected": false,
+      "FinishLocation": null,
+      "Location": {
+        "$type": "Team_Project_Paint.Class.OperationWithFigures.ShapePoint, Team_Project_Paint",
+        "X": 429,
+        "Y": 180
+      },
+      "Color": {
+        "$type": "Team_Project_Paint.Class.PaintColor, Team_Project_Paint",
+        "A": 255,
+        "R": 255,
+        "G": 165,
+        "B": 0
+      },
+      "Size": null,
+      "EShapeStatus": 2
+    },
+    {
+      "$type": "Team_Project_Paint.Class.Dot, Team_Project_Paint",
+      "Thickness": 5,
+      "Name": 0,
+      "Numb": 0,
+      "IsSelected": false,
+      "FinishLocation": null,
+      "Location": {
+        "$type": "Team_Project_Paint.Class.OperationWithFigures.ShapePoint, Team_Project_Paint",
+        "X": 443,
+        "Y": 203
+      },
+      "Color": {
+        "$type": "Team_Project_Paint.Class.PaintColor, Team_Project_Paint",
+        "A": 255,
+        "R": 255,
+        "G": 165,
+        "B": 0
+      },
+      "Size": null,
+      "EShapeStatus": 2
+    },
+    {
+      "$type": "Team_Project_Paint.Class.Dot, Team_Project_Paint",
+      "Thickness": 15,
+      "Name": 0,
+      "Numb": 0,
+      "IsSelected": false,
+      "FinishLocation": null,
+      "Location": {
+        "$type": "Team_Project_Paint.Class.OperationWithFigures.ShapePoint, Team_Project_Paint",
+        "X": 448,
+        "Y": 233
+      },
+      "Color": {
+        "$type": "Team_Project_Paint.Class.PaintColor, Team_Project_Paint",
+        "A": 255,
+        "R": 255,
+        "G": 165,
+        "B": 0
+      },
+      "Size": null,
+      "EShapeStatus": 2
+    },
+    {
+      "$type": "Team_Project_Paint.Class.Dot, Team_Project_Paint",
+      "Thickness": 6,
+      "Name": 0,
+      "Numb": 0,
+      "IsSelected": false,
+      "FinishLocation": null,
+      "Location": {
+        "$type": "Team_Project_Paint.Class.OperationWithFigures.ShapePoint, Team_Project_Paint",
+        "X": 457,
+        "Y": 253
+      },
+      "Color": {
+        "$type": "Team_Project_Paint.Class.PaintColor, Team_Project_Paint",
+        "A": 255,
+        "R": 255,
+        "G": 165,
+        "B": 0
+      },
+      "Size": null,
+      "EShapeStatus": 2
+    },
+    {
+      "$type": "Team_Project_Paint.Class.Dot, Team_Project_Paint",
+      "Thickness": 3,
+      "Name": 0,
+      "Numb": 0,
+      "IsSelected": false,
+      "FinishLocation": null,
+      "Location": {
+        "$type": "Team_Project_Paint.Class.OperationWithFigures.ShapePoint, Team_Project_Paint",
+        "X": 481,
+        "Y": 253
+      },
+      "Color": {
+        "$type": "Team_Project_Paint.Class.PaintColor, Team_Project_Paint",
+        "A": 255,
+        "R": 255,
+        "G": 165,
+        "B": 0
+      },
+      "Size": null,
+      "EShapeStatus": 2
+    },
+    {
+      "$type": "Team_Project_Paint.Class.Dot, Team_Project_Paint",
+      "Thickness": 19,
+      "Name": 0,
+      "Numb": 0,
+      "IsSelected": false,
+      "FinishLocation": null,
+      "Location": {
+        "$type": "Team_Project_Paint.Class.OperationWithFigures.ShapePoint, Team_Project_Paint",
+        "X": 635,
+        "Y": 160
+      },
+      "Color": {
+        "$type": "Team_Project_Paint.Class.PaintColor, Team_Project_Paint",
+        "A": 255,
+        "R": 255,
+        "G": 0,
+        "B": 0
+      },
+      "Size": null,
+      "EShapeStatus": 2
+    },
+    {
+      "$type": "Team_Project_Paint.Class.Dot, Team_Project_Paint",
+      "Thickness": 12,
+      "Name": 0,
+      "Numb": 0,
+      "IsSelected": false,
+      "FinishLocation": null,
+      "Location": {
+        "$type": "Team_Project_Paint.Class.OperationWithFigures.ShapePoint, Team_Project_Paint",
+        "X": 637,
+        "Y": 189
+      },
+      "Color": {
+        "$type": "Team_Project_Paint.Class.PaintColor, Team_Project_Paint",
+        "A": 255,
+        "R": 255,
+        "G": 0,
+        "B": 0
+      },
+      "Size": null,
+      "EShapeStatus": 2
+    },
+    {
+      "$type": "Team_Project_Paint.Class.Dot, Team_Project_Paint",
+      "Thickness": 8,
+      "Name": 0,
+      "Numb": 0,
+      "IsSelected": false,
+      "FinishLocation": null,
+      "Location": {
+        "$type": "Team_Project_Paint.Class.OperationWithFigures.ShapePoint, Team_Project_Paint",
+        "X": 647,
+        "Y": 208
+      },
+      "Color": {
+        "$type": "Team_Project_Paint.Class.PaintColor, Team_Project_Paint",
+        "A": 255,
+        "R": 255,
+        "G": 0,
+        "B": 0
+      },
+      "Size": null,
+      "EShapeStatus": 2
+    },
+    {
+      "$type": "Team_Project_Paint.Class.Dot, Team_Project_Paint",
+      "Thickness": 4,
+      "Name": 0,
+      "Numb": 0,
+      "IsSelected": false,
+      "FinishLocation": null,
+      "Location": {
+        "$type": "Team_Project_Paint.Class.OperationWithFigures.ShapePoint, Team_Project_Paint",
+        "X": 663,
+        "Y": 215
+      },
+      "Color": {
+        "$type": "Team_Project_Paint.Class.PaintColor, Team_Project_Paint",
+        "A": 255,
+        "R": 255,
+        "G": 0,
+        "B": 0
+      },
+      "Size": null,
+      "EShapeStatus": 2
+    },
+    {
+      "$type": "Team_Project_Paint.Class.Dot, Team_Project_Paint",
+      "Thickness": 20,
+      "Name": 0,
+      "Numb": 0,
+      "IsSelected": false,
+      "FinishLocation": null,
+      "Location": {
+        "$type": "Team_Project_Paint.Class.OperationWithFigures.ShapePoint, Team_Project_Paint",
+        "X": 840,
+        "Y": 202
+      },
+      "Color": {
+        "$type": "Team_Project_Paint.Class.PaintColor, Team_Project_Paint",
+        "A": 255,
+        "R": 128,
+        "G": 0,
+        "B": 128
+      },
+      "Size": null,
+      "EShapeStatus": 2
+    },
+    {
+      "$type": "Team_Project_Paint.Class.Dot, Team_Project_Paint",
+      "Thickness": 15,
+      "Name": 0,
+      "Numb": 0,
+      "IsSelected": false,
+      "FinishLocation": null,
+      "Location": {
+        "$type": "Team_Project_Paint.Class.OperationWithFigures.ShapePoint, Team_Project_Paint",
+        "X": 820,
+        "Y": 222
+      },
+      "Color": {
+        "$type": "Team_Project_Paint.Class.PaintColor, Team_Project_Paint",
+        "A": 255,
+        "R": 128,
+        "G": 0,
+        "B": 128
+      },
+      "Size": null,
+      "EShapeStatus": 2
+    },
+    {
+      "$type": "Team_Project_Paint.Class.Dot, Team_Project_Paint",
+      "Thickness": 9,
+      "Name": 0,
+      "Numb": 0,
+      "IsSelected": false,
+      "FinishLocation": null,
+      "Location": {
+        "$type": "Team_Project_Paint.Class.OperationWithFigures.ShapePoint, Team_Project_Paint",
+        "X": 805,
+        "Y": 239
+      },
+      "Color": {
+        "$type": "Team_Project_Paint.Class.PaintColor, Team_Project_Paint",
+        "A": 255,
+        "R": 128,
+        "G": 0,
+        "B": 128
+      },
+      "Size": null,
+      "EShapeStatus": 2
+    },
+    {
+      "$type": "Team_Project_Paint.Class.Dot, Team_Project_Paint",
+      "Thickness": 5,
+      "Name": 0,
+      "Numb": 0,
+      "IsSelected": false,
+      "FinishLocation": null,
+      "Location": {
+        "$type": "Team_Project_Paint.Class.OperationWithFigures.ShapePoint, Team_Project_Paint",
+        "X": 797,
+        "Y": 257
+      },
+      "Color": {
+        "$type": "Team_Project_Paint.Class.PaintColor, Team_Project_Paint",
+        "A": 255,
+        "R": 128,
+        "G": 0,
+        "B": 128
+      },
+      "Size": null,
+      "EShapeStatus": 2
+    },
+    {
+      "$type": "Team_Project_Paint.Class.Dot, Team_Project_Paint",
+      "Thickness": 18,
+      "Name": 0,
+      "Numb": 0,
+      "IsSelected": false,
+      "FinishLocation": null,
+      "Location": {
+        "$type": "Team_Project_Paint.Class.OperationWithFigures.ShapePoint, Team_Project_Paint",
+        "X": 657,
+        "Y": 334
+      },
+      "Color": {
+        "$type": "Team_Project_Paint.Class.PaintColor, Team_Project_Paint",
+        "A": 255,
+        "R": 0,
+        "G": 0,
+        "B": 255
+      },
+      "Size": null,
+      "EShapeStatus": 2
+    },
+    {
+      "$type": "Team_Project_Paint.Class.Dot, Team_Project_Paint",
+      "Thickness": 12,
+      "Name": 0,
+      "Numb": 0,
+      "IsSelected": false,
+      "FinishLocation": null,
+      "Location": {
+        "$type": "Team_Project_Paint.Class.OperationWithFigures.ShapePoint, Team_Project_Paint",
+        "X": 670,
+        "Y": 310
+      },
+      "Color": {
+        "$type": "Team_Project_Paint.Class.PaintColor, Team_Project_Paint",
+        "A": 255,
+        "R": 0,
+        "G": 0,
+        "B": 255
+      },
+      "Size": null,
+      "EShapeStatus": 2
+    },
+    {
+      "$type": "Team_Project_Paint.Class.Dot, Team_Project_Paint",
+      "Thickness": 7,
+      "Name": 0,
+      "Numb": 0,
+      "IsSelected": false,
+      "FinishLocation": null,
+      "Location": {
+        "$type": "Team_Project_Paint.Class.OperationWithFigures.ShapePoint, Team_Project_Paint",
+        "X": 682,
+        "Y": 293
+      },
+      "Color": {
+        "$type": "Team_Project_Paint.Class.PaintColor, Team_Project_Paint",
+        "A": 255,
+        "R": 0,
+        "G": 0,
+        "B": 255
+      },
+      "Size": null,
+      "EShapeStatus": 2
+    },
+    {
+      "$type": "Team_Project_Paint.Class.Dot, Team_Project_Paint",
+      "Thickness": 2,
+      "Name": 0,
+      "Numb": 0,
+      "IsSelected": false,
+      "FinishLocation": null,
+      "Location": {
+        "$type": "Team_Project_Paint.Class.OperationWithFigures.ShapePoint, Team_Project_Paint",
+        "X": 693,
+        "Y": 285
+      },
+      "Color": {
+        "$type": "Team_Project_Paint.Class.PaintColor, Team_Project_Paint",
+        "A": 255,
+        "R": 0,
+        "G": 0,
+        "B": 255
+      },
+      "Size": null,
+      "EShapeStatus": 2
+    },
+    {
+      "$type": "Team_Project_Paint.Class.Dot, Team_Project_Paint",
+      "Thickness": 18,
+      "Name": 0,
+      "Numb": 0,
+      "IsSelected": false,
+      "FinishLocation": null,
+      "Location": {
+        "$type": "Team_Project_Paint.Class.OperationWithFigures.ShapePoint, Team_Project_Paint",
+        "X": 518,
+        "Y": 166
+      },
+      "Color": {
+        "$type": "Team_Project_Paint.Class.PaintColor, Team_Project_Paint",
+        "A": 255,
+        "R": 255,
+        "G": 255,
+        "B": 0
+      },
+      "Size": null,
+      "EShapeStatus": 2
+    },
+    {
+      "$type": "Team_Project_Paint.Class.Dot, Team_Project_Paint",
+      "Thickness": 12,
+      "Name": 0,
+      "Numb": 0,
+      "IsSelected": false,
+      "FinishLocation": null,
+      "Location": {
+        "$type": "Team_Project_Paint.Class.OperationWithFigures.ShapePoint, Team_Project_Paint",
+        "X": 535,
+        "Y": 183
+      },
+      "Color": {
+        "$type": "Team_Project_Paint.Class.PaintColor, Team_Project_Paint",
+        "A": 255,
+        "R": 255,
+        "G": 255,
+        "B": 0
+      },
+      "Size": null,
+      "EShapeStatus": 2
+    },
+    {
+      "$type": "Team_Project_Paint.Class.Dot, Team_Project_Paint",
+      "Thickness": 7,
+      "Name": 0,
+      "Numb": 0,
+      "IsSelected": false,
+      "FinishLocation": null,
+      "Location": {
+        "$type": "Team_Project_Paint.Class.OperationWithFigures.ShapePoint, Team_Project_Paint",
+        "X": 553,
+        "Y": 196
+      },
+      "Color": {
+        "$type": "Team_Project_Paint.Class.PaintColor, Team_Project_Paint",
+        "A": 255,
+        "R": 255,
+        "G": 255,
+        "B": 0
+      },
+      "Size": null,
+      "EShapeStatus": 2
+    },
+    {
+      "$type": "Team_Project_Paint.Class.Dot, Team_Project_Paint",
+      "Thickness": 5,
+      "Name": 0,
+      "Numb": 0,
+      "IsSelected": false,
+      "FinishLocation": null,
+      "Location": {
+        "$type": "Team_Project_Paint.Class.OperationWithFigures.ShapePoint, Team_Project_Paint",
+        "X": 570,
+        "Y": 202
+      },
+      "Color": {
+        "$type": "Team_Project_Paint.Class.PaintColor, Team_Project_Paint",
+        "A": 255,
+        "R": 255,
+        "G": 255,
+        "B": 0
+      },
+      "Size": null,
+      "EShapeStatus": 2
+    },
+    {
+      "$type": "Team_Project_Paint.Class.Dot, Team_Project_Paint",
+      "Thickness": 20,
+      "Name": 0,
+      "Numb": 0,
+      "IsSelected": false,
+      "FinishLocation": null,
+      "Location": {
+        "$type": "Team_Project_Paint.Class.OperationWithFigures.ShapePoint, Team_Project_Paint",
+        "X": 505,
+        "Y": 373
+      },
+      "Color": {
+        "$type": "Team_Project_Paint.Class.PaintColor, Team_Project_Paint",
+        "A": 255,
+        "R": 0,
+        "G": 128,
+        "B": 0
+      },
+      "Size": null,
+      "EShapeStatus": 2
+    },
+    {
+      "$type": "Team_Project_Paint.Class.Dot, Team_Project_Paint",
+      "Thickness": 13,
+      "Name": 0,
+      "Numb": 0,
+      "IsSelected": false,
+      "FinishLocation": null,
+      "Location": {
+        "$type": "Team_Project_Paint.Class.OperationWithFigures.ShapePoint, Team_Project_Paint",
+        "X": 524,
+        "Y": 351
+      },
+      "Color": {
+        "$type": "Team_Project_Paint.Class.PaintColor, Team_Project_Paint",
+        "A": 255,
+        "R": 0,
+        "G": 128,
+        "B": 0
+      },
+      "Size": null,
+      "EShapeStatus": 2
+    },
+    {
+      "$type": "Team_Project_Paint.Class.Dot, Team_Project_Paint",
+      "Thickness": 7,
+      "Name": 0,
+      "Numb": 0,
+      "IsSelected": false,
+      "FinishLocation": null,
+      "Location": {
+        "$type": "Team_Project_Paint.Class.OperationWithFigures.ShapePoint, Team_Project_Paint",
+        "X": 539,
+        "Y": 334
+      },
+      "Color": {
+        "$type": "Team_Project_Paint.Class.PaintColor, Team_Project_Paint",
+        "A": 255,
+        "R": 0,
+        "G": 128,
+        "B": 0
+      },
+      "Size": null,
+      "EShapeStatus": 2
+    },
+    {
+      "$type": "Team_Project_Paint.Class.Dot, Team_Project_Paint",
+      "Thickness": 5,
+      "Name": 0,
+      "Numb": 0,
+      "IsSelected": false,
+      "FinishLocation": null,
+      "Location": {
+        "$type": "Team_Project_Paint.Class.OperationWithFigures.ShapePoint, Team_Project_Paint",
+        "X": 550,
+        "Y": 320
+      },
+      "Color": {
+        "$type": "Team_Project_Paint.Class.PaintColor, Team_Project_Paint",
+        "A": 255,
+        "R": 0,
+        "G": 128,
+        "B": 0
+      },
+      "Size": null,
+      "EShapeStatus": 2
+    }
+  ]
+}
